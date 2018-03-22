@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fengyueWeb"
+  id="myeclipse.1520691015519"
+  context-root="/fengyueWeb"
+  j2ee-spec="1.7"
+  archive="fengyueWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
